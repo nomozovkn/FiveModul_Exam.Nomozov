@@ -1,0 +1,22 @@
+{
+  "CREATE" "TABLE",
+  "ToDoItems(" "ToDoItemId",
+  "BIGINT" "PRIMARY",
+  "KEY" "IDENTITY(1",
+  "1)",
+  "Title" "NVARCHAR(255)",
+  "NOT" "NULL",
+  "Description" "NVARCHAR(MAX)",
+  "NULL",
+  "IsCompleted" "BIT",
+  "NOT" "NULL",
+  "DEFAULT" 0,
+  "CreatedAt" "DATETIME",
+  "NOT" "NULL",
+  "DEFAULT" "GETDATE()",
+  "DueDate" "DATETIME",
+  "NOT" "NULL",
+  ");"
+
+
+}

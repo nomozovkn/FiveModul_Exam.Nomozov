@@ -1,0 +1,15 @@
+C:\Projects\FiveModul_Exam.Nomozov\ToDoList\ToDoList.Dal\bin\Debug\net8.0\ToDoList.Dal.deps.json
+C:\Projects\FiveModul_Exam.Nomozov\ToDoList\ToDoList.Dal\bin\Debug\net8.0\ToDoList.Dal.runtimeconfig.json
+C:\Projects\FiveModul_Exam.Nomozov\ToDoList\ToDoList.Dal\bin\Debug\net8.0\ToDoList.Dal.dll
+C:\Projects\FiveModul_Exam.Nomozov\ToDoList\ToDoList.Dal\bin\Debug\net8.0\ToDoList.Dal.pdb
+C:\Projects\FiveModul_Exam.Nomozov\ToDoList\ToDoList.Dal\obj\Debug\net8.0\ToDoList.Dal.csproj.AssemblyReference.cache
+C:\Projects\FiveModul_Exam.Nomozov\ToDoList\ToDoList.Dal\obj\Debug\net8.0\ToDoList.Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\FiveModul_Exam.Nomozov\ToDoList\ToDoList.Dal\obj\Debug\net8.0\ToDoList.Dal.AssemblyInfoInputs.cache
+C:\Projects\FiveModul_Exam.Nomozov\ToDoList\ToDoList.Dal\obj\Debug\net8.0\ToDoList.Dal.AssemblyInfo.cs
+C:\Projects\FiveModul_Exam.Nomozov\ToDoList\ToDoList.Dal\obj\Debug\net8.0\ToDoList.Dal.csproj.CoreCompileInputs.cache
+C:\Projects\FiveModul_Exam.Nomozov\ToDoList\ToDoList.Dal\obj\Debug\net8.0\ToDoList.Dal.sourcelink.json
+C:\Projects\FiveModul_Exam.Nomozov\ToDoList\ToDoList.Dal\obj\Debug\net8.0\ToDoList.Dal.dll
+C:\Projects\FiveModul_Exam.Nomozov\ToDoList\ToDoList.Dal\obj\Debug\net8.0\refint\ToDoList.Dal.dll
+C:\Projects\FiveModul_Exam.Nomozov\ToDoList\ToDoList.Dal\obj\Debug\net8.0\ToDoList.Dal.pdb
+C:\Projects\FiveModul_Exam.Nomozov\ToDoList\ToDoList.Dal\obj\Debug\net8.0\ToDoList.Dal.genruntimeconfig.cache
+C:\Projects\FiveModul_Exam.Nomozov\ToDoList\ToDoList.Dal\obj\Debug\net8.0\ref\ToDoList.Dal.dll

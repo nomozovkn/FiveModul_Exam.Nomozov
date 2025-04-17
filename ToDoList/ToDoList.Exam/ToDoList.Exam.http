@@ -1,0 +1,6 @@
+@ToDoList.Exam_HostAddress = http://localhost:5224
+
+GET {{ToDoList.Exam_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

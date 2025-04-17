@@ -1,0 +1,16 @@
+C:\Projects\FiveModul_Exam.Nomozov\ToDoList\ToDoList.Repository\bin\Debug\net8.0\ToDoList.Repository.deps.json
+C:\Projects\FiveModul_Exam.Nomozov\ToDoList\ToDoList.Repository\bin\Debug\net8.0\ToDoList.Repository.dll
+C:\Projects\FiveModul_Exam.Nomozov\ToDoList\ToDoList.Repository\bin\Debug\net8.0\ToDoList.Repository.pdb
+C:\Projects\FiveModul_Exam.Nomozov\ToDoList\ToDoList.Repository\bin\Debug\net8.0\ToDoList.Dal.dll
+C:\Projects\FiveModul_Exam.Nomozov\ToDoList\ToDoList.Repository\bin\Debug\net8.0\ToDoList.Dal.pdb
+C:\Projects\FiveModul_Exam.Nomozov\ToDoList\ToDoList.Repository\obj\Debug\net8.0\ToDoList.Repository.csproj.AssemblyReference.cache
+C:\Projects\FiveModul_Exam.Nomozov\ToDoList\ToDoList.Repository\obj\Debug\net8.0\ToDoList.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\FiveModul_Exam.Nomozov\ToDoList\ToDoList.Repository\obj\Debug\net8.0\ToDoList.Repository.AssemblyInfoInputs.cache
+C:\Projects\FiveModul_Exam.Nomozov\ToDoList\ToDoList.Repository\obj\Debug\net8.0\ToDoList.Repository.AssemblyInfo.cs
+C:\Projects\FiveModul_Exam.Nomozov\ToDoList\ToDoList.Repository\obj\Debug\net8.0\ToDoList.Repository.csproj.CoreCompileInputs.cache
+C:\Projects\FiveModul_Exam.Nomozov\ToDoList\ToDoList.Repository\obj\Debug\net8.0\ToDoList.Repository.sourcelink.json
+C:\Projects\FiveModul_Exam.Nomozov\ToDoList\ToDoList.Repository\obj\Debug\net8.0\ToDoList.65366F5A.Up2Date
+C:\Projects\FiveModul_Exam.Nomozov\ToDoList\ToDoList.Repository\obj\Debug\net8.0\ToDoList.Repository.dll
+C:\Projects\FiveModul_Exam.Nomozov\ToDoList\ToDoList.Repository\obj\Debug\net8.0\refint\ToDoList.Repository.dll
+C:\Projects\FiveModul_Exam.Nomozov\ToDoList\ToDoList.Repository\obj\Debug\net8.0\ToDoList.Repository.pdb
+C:\Projects\FiveModul_Exam.Nomozov\ToDoList\ToDoList.Repository\obj\Debug\net8.0\ref\ToDoList.Repository.dll

@@ -1,0 +1,431 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\FiveModul_Exam.Nomozov\\ToDoList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA23E2E-D443-4B76-BB08-BEA401F450DA}|ToDoList.Dal\\ToDoList.Dal.csproj|c:\\projects\\fivemodul_exam.nomozov\\todolist\\todolist.dal\\queries.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{4CA23E2E-D443-4B76-BB08-BEA401F450DA}|ToDoList.Dal\\ToDoList.Dal.csproj|solutionrelative:todolist.dal\\queries.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CC86A20-A171-4485-88A1-93E7183B1C3D}|ToDoList.Repository\\ToDoList.Repository.csproj|c:\\projects\\fivemodul_exam.nomozov\\todolist\\todolist.repository\\todoitemrepository\\adonettodoitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CC86A20-A171-4485-88A1-93E7183B1C3D}|ToDoList.Repository\\ToDoList.Repository.csproj|solutionrelative:todolist.repository\\todoitemrepository\\adonettodoitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CC86A20-A171-4485-88A1-93E7183B1C3D}|ToDoList.Repository\\ToDoList.Repository.csproj|c:\\projects\\fivemodul_exam.nomozov\\todolist\\todolist.repository\\todoitemrepository\\itodoitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CC86A20-A171-4485-88A1-93E7183B1C3D}|ToDoList.Repository\\ToDoList.Repository.csproj|solutionrelative:todolist.repository\\todoitemrepository\\itodoitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60C01999-F73E-459B-A56F-B09692870836}|ToDoList.Bll\\ToDoList.Bll.csproj|c:\\projects\\fivemodul_exam.nomozov\\todolist\\todolist.bll\\service\\todoitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60C01999-F73E-459B-A56F-B09692870836}|ToDoList.Bll\\ToDoList.Bll.csproj|solutionrelative:todolist.bll\\service\\todoitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CC86A20-A171-4485-88A1-93E7183B1C3D}|ToDoList.Repository\\ToDoList.Repository.csproj|c:\\projects\\fivemodul_exam.nomozov\\todolist\\todolist.repository\\todoitemrepository\\todoitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CC86A20-A171-4485-88A1-93E7183B1C3D}|ToDoList.Repository\\ToDoList.Repository.csproj|solutionrelative:todolist.repository\\todoitemrepository\\todoitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27AB92E4-0C6E-487D-A54E-9C29D89A4207}|ToDoList.Exam\\ToDoList.Exam.csproj|c:\\projects\\fivemodul_exam.nomozov\\todolist\\todolist.exam\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{27AB92E4-0C6E-487D-A54E-9C29D89A4207}|ToDoList.Exam\\ToDoList.Exam.csproj|solutionrelative:todolist.exam\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA23E2E-D443-4B76-BB08-BEA401F450DA}|ToDoList.Dal\\ToDoList.Dal.csproj|c:\\projects\\fivemodul_exam.nomozov\\todolist\\todolist.dal\\maincontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CA23E2E-D443-4B76-BB08-BEA401F450DA}|ToDoList.Dal\\ToDoList.Dal.csproj|solutionrelative:todolist.dal\\maincontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60C01999-F73E-459B-A56F-B09692870836}|ToDoList.Bll\\ToDoList.Bll.csproj|c:\\projects\\fivemodul_exam.nomozov\\todolist\\todolist.bll\\dtos\\todoitemcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60C01999-F73E-459B-A56F-B09692870836}|ToDoList.Bll\\ToDoList.Bll.csproj|solutionrelative:todolist.bll\\dtos\\todoitemcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\FiveModul_Exam.Nomozov\\ToDoList\\ToDoList.Dal\\.filenesting.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ToDoList.Dal\\.filenesting.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27AB92E4-0C6E-487D-A54E-9C29D89A4207}|ToDoList.Exam\\ToDoList.Exam.csproj|c:\\projects\\fivemodul_exam.nomozov\\todolist\\todolist.exam\\controllers\\todolistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27AB92E4-0C6E-487D-A54E-9C29D89A4207}|ToDoList.Exam\\ToDoList.Exam.csproj|solutionrelative:todolist.exam\\controllers\\todolistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CC86A20-A171-4485-88A1-93E7183B1C3D}|ToDoList.Repository\\ToDoList.Repository.csproj|c:\\projects\\fivemodul_exam.nomozov\\todolist\\todolist.repository\\todolist.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0CC86A20-A171-4485-88A1-93E7183B1C3D}|ToDoList.Repository\\ToDoList.Repository.csproj|solutionrelative:todolist.repository\\todolist.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27AB92E4-0C6E-487D-A54E-9C29D89A4207}|ToDoList.Exam\\ToDoList.Exam.csproj|c:\\projects\\fivemodul_exam.nomozov\\todolist\\todolist.exam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27AB92E4-0C6E-487D-A54E-9C29D89A4207}|ToDoList.Exam\\ToDoList.Exam.csproj|solutionrelative:todolist.exam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27AB92E4-0C6E-487D-A54E-9C29D89A4207}|ToDoList.Exam\\ToDoList.Exam.csproj|c:\\projects\\fivemodul_exam.nomozov\\todolist\\todolist.exam\\configurations\\dependicyinjectionconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27AB92E4-0C6E-487D-A54E-9C29D89A4207}|ToDoList.Exam\\ToDoList.Exam.csproj|solutionrelative:todolist.exam\\configurations\\dependicyinjectionconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27AB92E4-0C6E-487D-A54E-9C29D89A4207}|ToDoList.Exam\\ToDoList.Exam.csproj|c:\\projects\\fivemodul_exam.nomozov\\todolist\\todolist.exam\\configurations\\databaseconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27AB92E4-0C6E-487D-A54E-9C29D89A4207}|ToDoList.Exam\\ToDoList.Exam.csproj|solutionrelative:todolist.exam\\configurations\\databaseconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CC86A20-A171-4485-88A1-93E7183B1C3D}|ToDoList.Repository\\ToDoList.Repository.csproj|c:\\projects\\fivemodul_exam.nomozov\\todolist\\todolist.repository\\settings\\sqldbconnectionstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CC86A20-A171-4485-88A1-93E7183B1C3D}|ToDoList.Repository\\ToDoList.Repository.csproj|solutionrelative:todolist.repository\\settings\\sqldbconnectionstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60C01999-F73E-459B-A56F-B09692870836}|ToDoList.Bll\\ToDoList.Bll.csproj|c:\\projects\\fivemodul_exam.nomozov\\todolist\\todolist.bll\\service\\itodoitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60C01999-F73E-459B-A56F-B09692870836}|ToDoList.Bll\\ToDoList.Bll.csproj|solutionrelative:todolist.bll\\service\\itodoitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60C01999-F73E-459B-A56F-B09692870836}|ToDoList.Bll\\ToDoList.Bll.csproj|c:\\projects\\fivemodul_exam.nomozov\\todolist\\todolist.bll\\validators\\todoitemupdatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60C01999-F73E-459B-A56F-B09692870836}|ToDoList.Bll\\ToDoList.Bll.csproj|solutionrelative:todolist.bll\\validators\\todoitemupdatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60C01999-F73E-459B-A56F-B09692870836}|ToDoList.Bll\\ToDoList.Bll.csproj|c:\\projects\\fivemodul_exam.nomozov\\todolist\\todolist.bll\\validators\\todoitemcreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60C01999-F73E-459B-A56F-B09692870836}|ToDoList.Bll\\ToDoList.Bll.csproj|solutionrelative:todolist.bll\\validators\\todoitemcreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60C01999-F73E-459B-A56F-B09692870836}|ToDoList.Bll\\ToDoList.Bll.csproj|c:\\projects\\fivemodul_exam.nomozov\\todolist\\todolist.bll\\dtos\\todoitemupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60C01999-F73E-459B-A56F-B09692870836}|ToDoList.Bll\\ToDoList.Bll.csproj|solutionrelative:todolist.bll\\dtos\\todoitemupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60C01999-F73E-459B-A56F-B09692870836}|ToDoList.Bll\\ToDoList.Bll.csproj|c:\\projects\\fivemodul_exam.nomozov\\todolist\\todolist.bll\\dtos\\todoitemgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60C01999-F73E-459B-A56F-B09692870836}|ToDoList.Bll\\ToDoList.Bll.csproj|solutionrelative:todolist.bll\\dtos\\todoitemgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60C01999-F73E-459B-A56F-B09692870836}|ToDoList.Bll\\ToDoList.Bll.csproj|c:\\projects\\fivemodul_exam.nomozov\\todolist\\todolist.bll\\dtos\\getallresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60C01999-F73E-459B-A56F-B09692870836}|ToDoList.Bll\\ToDoList.Bll.csproj|solutionrelative:todolist.bll\\dtos\\getallresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA23E2E-D443-4B76-BB08-BEA401F450DA}|ToDoList.Dal\\ToDoList.Dal.csproj|c:\\projects\\fivemodul_exam.nomozov\\todolist\\todolist.dal\\configuraton\\todoitemconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CA23E2E-D443-4B76-BB08-BEA401F450DA}|ToDoList.Dal\\ToDoList.Dal.csproj|solutionrelative:todolist.dal\\configuraton\\todoitemconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA23E2E-D443-4B76-BB08-BEA401F450DA}|ToDoList.Dal\\ToDoList.Dal.csproj|c:\\projects\\fivemodul_exam.nomozov\\todolist\\todolist.dal\\entities\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CA23E2E-D443-4B76-BB08-BEA401F450DA}|ToDoList.Dal\\ToDoList.Dal.csproj|solutionrelative:todolist.dal\\entities\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60C01999-F73E-459B-A56F-B09692870836}|ToDoList.Bll\\ToDoList.Bll.csproj|c:\\projects\\fivemodul_exam.nomozov\\todolist\\todolist.bll\\todolist.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{60C01999-F73E-459B-A56F-B09692870836}|ToDoList.Bll\\ToDoList.Bll.csproj|solutionrelative:todolist.bll\\todolist.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA23E2E-D443-4B76-BB08-BEA401F450DA}|ToDoList.Dal\\ToDoList.Dal.csproj|c:\\projects\\fivemodul_exam.nomozov\\todolist\\todolist.dal\\queries.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{4CA23E2E-D443-4B76-BB08-BEA401F450DA}|ToDoList.Dal\\ToDoList.Dal.csproj|solutionrelative:todolist.dal\\queries.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projects\\FiveModul_Exam.Nomozov\\ToDoList\\ToDoList.Exam\\appsettings.json",
+              "RelativeDocumentMoniker": "ToDoList.Exam\\appsettings.json",
+              "ToolTip": "C:\\Projects\\FiveModul_Exam.Nomozov\\ToDoList\\ToDoList.Exam\\appsettings.json",
+              "RelativeToolTip": "ToDoList.Exam\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-17T05:04:04.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdoNetToDoItemRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\FiveModul_Exam.Nomozov\\ToDoList\\ToDoList.Repository\\ToDoItemRepository\\AdoNetToDoItemRepository.cs",
+              "RelativeDocumentMoniker": "ToDoList.Repository\\ToDoItemRepository\\AdoNetToDoItemRepository.cs",
+              "ToolTip": "C:\\Projects\\FiveModul_Exam.Nomozov\\ToDoList\\ToDoList.Repository\\ToDoItemRepository\\AdoNetToDoItemRepository.cs",
+              "RelativeToolTip": "ToDoList.Repository\\ToDoItemRepository\\AdoNetToDoItemRepository.cs",
+              "ViewState": "AgIAAMIAAAAAAAAAAAAuwP4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T04:48:54.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Queries.sql ",
+              "DocumentMoniker": "C:\\Projects\\FiveModul_Exam.Nomozov\\ToDoList\\ToDoList.Dal\\Queries.sql",
+              "RelativeDocumentMoniker": "ToDoList.Dal\\Queries.sql",
+              "ToolTip": "C:\\Projects\\FiveModul_Exam.Nomozov\\ToDoList\\ToDoList.Dal\\Queries.sql",
+              "RelativeToolTip": "ToDoList.Dal\\Queries.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-04-17T05:50:11.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IToDoItemRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\FiveModul_Exam.Nomozov\\ToDoList\\ToDoList.Repository\\ToDoItemRepository\\IToDoItemRepository.cs",
+              "RelativeDocumentMoniker": "ToDoList.Repository\\ToDoItemRepository\\IToDoItemRepository.cs",
+              "ToolTip": "C:\\Projects\\FiveModul_Exam.Nomozov\\ToDoList\\ToDoList.Repository\\ToDoItemRepository\\IToDoItemRepository.cs",
+              "RelativeToolTip": "ToDoList.Repository\\ToDoItemRepository\\IToDoItemRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T04:46:06.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ToDoItemRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\FiveModul_Exam.Nomozov\\ToDoList\\ToDoList.Repository\\ToDoItemRepository\\ToDoItemRepository.cs",
+              "RelativeDocumentMoniker": "ToDoList.Repository\\ToDoItemRepository\\ToDoItemRepository.cs",
+              "ToolTip": "C:\\Projects\\FiveModul_Exam.Nomozov\\ToDoList\\ToDoList.Repository\\ToDoItemRepository\\ToDoItemRepository.cs",
+              "RelativeToolTip": "ToDoList.Repository\\ToDoItemRepository\\ToDoItemRepository.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAswBcAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T04:45:14.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ToDoItemService.cs",
+              "DocumentMoniker": "C:\\Projects\\FiveModul_Exam.Nomozov\\ToDoList\\ToDoList.Bll\\Service\\ToDoItemService.cs",
+              "RelativeDocumentMoniker": "ToDoList.Bll\\Service\\ToDoItemService.cs",
+              "ToolTip": "C:\\Projects\\FiveModul_Exam.Nomozov\\ToDoList\\ToDoList.Bll\\Service\\ToDoItemService.cs",
+              "RelativeToolTip": "ToDoList.Bll\\Service\\ToDoItemService.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAswFkAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T04:40:53.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": ".filenesting.json",
+              "DocumentMoniker": "C:\\Projects\\FiveModul_Exam.Nomozov\\ToDoList\\ToDoList.Dal\\.filenesting.json",
+              "RelativeDocumentMoniker": "ToDoList.Dal\\.filenesting.json",
+              "ToolTip": "C:\\Projects\\FiveModul_Exam.Nomozov\\ToDoList\\ToDoList.Dal\\.filenesting.json",
+              "RelativeToolTip": "ToDoList.Dal\\.filenesting.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-17T05:12:04.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainContext.cs",
+              "DocumentMoniker": "C:\\Projects\\FiveModul_Exam.Nomozov\\ToDoList\\ToDoList.Dal\\MainContext.cs",
+              "RelativeDocumentMoniker": "ToDoList.Dal\\MainContext.cs",
+              "ToolTip": "C:\\Projects\\FiveModul_Exam.Nomozov\\ToDoList\\ToDoList.Dal\\MainContext.cs",
+              "RelativeToolTip": "ToDoList.Dal\\MainContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T04:30:01.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ToDoItemCreateDto.cs",
+              "DocumentMoniker": "C:\\Projects\\FiveModul_Exam.Nomozov\\ToDoList\\ToDoList.Bll\\DTOs\\ToDoItemCreateDto.cs",
+              "RelativeDocumentMoniker": "ToDoList.Bll\\DTOs\\ToDoItemCreateDto.cs",
+              "ToolTip": "C:\\Projects\\FiveModul_Exam.Nomozov\\ToDoList\\ToDoList.Bll\\DTOs\\ToDoItemCreateDto.cs",
+              "RelativeToolTip": "ToDoList.Bll\\DTOs\\ToDoItemCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T04:34:50.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ToDoListController.cs",
+              "DocumentMoniker": "C:\\Projects\\FiveModul_Exam.Nomozov\\ToDoList\\ToDoList.Exam\\Controllers\\ToDoListController.cs",
+              "RelativeDocumentMoniker": "ToDoList.Exam\\Controllers\\ToDoListController.cs",
+              "ToolTip": "C:\\Projects\\FiveModul_Exam.Nomozov\\ToDoList\\ToDoList.Exam\\Controllers\\ToDoListController.cs",
+              "RelativeToolTip": "ToDoList.Exam\\Controllers\\ToDoListController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T05:02:34.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\FiveModul_Exam.Nomozov\\ToDoList\\ToDoList.Exam\\Program.cs",
+              "RelativeDocumentMoniker": "ToDoList.Exam\\Program.cs",
+              "ToolTip": "C:\\Projects\\FiveModul_Exam.Nomozov\\ToDoList\\ToDoList.Exam\\Program.cs",
+              "RelativeToolTip": "ToDoList.Exam\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T04:53:07.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DependicyInjectionConfigurations.cs",
+              "DocumentMoniker": "C:\\Projects\\FiveModul_Exam.Nomozov\\ToDoList\\ToDoList.Exam\\Configurations\\DependicyInjectionConfigurations.cs",
+              "RelativeDocumentMoniker": "ToDoList.Exam\\Configurations\\DependicyInjectionConfigurations.cs",
+              "ToolTip": "C:\\Projects\\FiveModul_Exam.Nomozov\\ToDoList\\ToDoList.Exam\\Configurations\\DependicyInjectionConfigurations.cs",
+              "RelativeToolTip": "ToDoList.Exam\\Configurations\\DependicyInjectionConfigurations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T04:55:20.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ToDoList.Repository",
+              "DocumentMoniker": "C:\\Projects\\FiveModul_Exam.Nomozov\\ToDoList\\ToDoList.Repository\\ToDoList.Repository.csproj",
+              "RelativeDocumentMoniker": "ToDoList.Repository\\ToDoList.Repository.csproj",
+              "ToolTip": "C:\\Projects\\FiveModul_Exam.Nomozov\\ToDoList\\ToDoList.Repository\\ToDoList.Repository.csproj",
+              "RelativeToolTip": "ToDoList.Repository\\ToDoList.Repository.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-17T04:47:40.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DatabaseConfigurations.cs",
+              "DocumentMoniker": "C:\\Projects\\FiveModul_Exam.Nomozov\\ToDoList\\ToDoList.Exam\\Configurations\\DatabaseConfigurations.cs",
+              "RelativeDocumentMoniker": "ToDoList.Exam\\Configurations\\DatabaseConfigurations.cs",
+              "ToolTip": "C:\\Projects\\FiveModul_Exam.Nomozov\\ToDoList\\ToDoList.Exam\\Configurations\\DatabaseConfigurations.cs",
+              "RelativeToolTip": "ToDoList.Exam\\Configurations\\DatabaseConfigurations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T04:54:24.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SqlDbConnectionString.cs",
+              "DocumentMoniker": "C:\\Projects\\FiveModul_Exam.Nomozov\\ToDoList\\ToDoList.Repository\\Settings\\SqlDbConnectionString.cs",
+              "RelativeDocumentMoniker": "ToDoList.Repository\\Settings\\SqlDbConnectionString.cs",
+              "ToolTip": "C:\\Projects\\FiveModul_Exam.Nomozov\\ToDoList\\ToDoList.Repository\\Settings\\SqlDbConnectionString.cs",
+              "RelativeToolTip": "ToDoList.Repository\\Settings\\SqlDbConnectionString.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T04:51:32.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IToDoItemService.cs",
+              "DocumentMoniker": "C:\\Projects\\FiveModul_Exam.Nomozov\\ToDoList\\ToDoList.Bll\\Service\\IToDoItemService.cs",
+              "RelativeDocumentMoniker": "ToDoList.Bll\\Service\\IToDoItemService.cs",
+              "ToolTip": "C:\\Projects\\FiveModul_Exam.Nomozov\\ToDoList\\ToDoList.Bll\\Service\\IToDoItemService.cs",
+              "RelativeToolTip": "ToDoList.Bll\\Service\\IToDoItemService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T04:39:21.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ToDoItemUpdateDtoValidator.cs",
+              "DocumentMoniker": "C:\\Projects\\FiveModul_Exam.Nomozov\\ToDoList\\ToDoList.Bll\\Validators\\ToDoItemUpdateDtoValidator.cs",
+              "RelativeDocumentMoniker": "ToDoList.Bll\\Validators\\ToDoItemUpdateDtoValidator.cs",
+              "ToolTip": "C:\\Projects\\FiveModul_Exam.Nomozov\\ToDoList\\ToDoList.Bll\\Validators\\ToDoItemUpdateDtoValidator.cs",
+              "RelativeToolTip": "ToDoList.Bll\\Validators\\ToDoItemUpdateDtoValidator.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAxwCEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T04:37:01.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ToDoItemCreateDtoValidator.cs",
+              "DocumentMoniker": "C:\\Projects\\FiveModul_Exam.Nomozov\\ToDoList\\ToDoList.Bll\\Validators\\ToDoItemCreateDtoValidator.cs",
+              "RelativeDocumentMoniker": "ToDoList.Bll\\Validators\\ToDoItemCreateDtoValidator.cs",
+              "ToolTip": "C:\\Projects\\FiveModul_Exam.Nomozov\\ToDoList\\ToDoList.Bll\\Validators\\ToDoItemCreateDtoValidator.cs",
+              "RelativeToolTip": "ToDoList.Bll\\Validators\\ToDoItemCreateDtoValidator.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T04:36:39.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ToDoItemUpdateDto.cs",
+              "DocumentMoniker": "C:\\Projects\\FiveModul_Exam.Nomozov\\ToDoList\\ToDoList.Bll\\DTOs\\ToDoItemUpdateDto.cs",
+              "RelativeDocumentMoniker": "ToDoList.Bll\\DTOs\\ToDoItemUpdateDto.cs",
+              "ToolTip": "C:\\Projects\\FiveModul_Exam.Nomozov\\ToDoList\\ToDoList.Bll\\DTOs\\ToDoItemUpdateDto.cs",
+              "RelativeToolTip": "ToDoList.Bll\\DTOs\\ToDoItemUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T04:35:41.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ToDoItemGetDto.cs",
+              "DocumentMoniker": "C:\\Projects\\FiveModul_Exam.Nomozov\\ToDoList\\ToDoList.Bll\\DTOs\\ToDoItemGetDto.cs",
+              "RelativeDocumentMoniker": "ToDoList.Bll\\DTOs\\ToDoItemGetDto.cs",
+              "ToolTip": "C:\\Projects\\FiveModul_Exam.Nomozov\\ToDoList\\ToDoList.Bll\\DTOs\\ToDoItemGetDto.cs",
+              "RelativeToolTip": "ToDoList.Bll\\DTOs\\ToDoItemGetDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T04:33:57.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GetAllResponseModel.cs",
+              "DocumentMoniker": "C:\\Projects\\FiveModul_Exam.Nomozov\\ToDoList\\ToDoList.Bll\\DTOs\\GetAllResponseModel.cs",
+              "RelativeDocumentMoniker": "ToDoList.Bll\\DTOs\\GetAllResponseModel.cs",
+              "ToolTip": "C:\\Projects\\FiveModul_Exam.Nomozov\\ToDoList\\ToDoList.Bll\\DTOs\\GetAllResponseModel.cs",
+              "RelativeToolTip": "ToDoList.Bll\\DTOs\\GetAllResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T04:32:39.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ToDoItemConfigurations.cs",
+              "DocumentMoniker": "C:\\Projects\\FiveModul_Exam.Nomozov\\ToDoList\\ToDoList.Dal\\Configuraton\\ToDoItemConfigurations.cs",
+              "RelativeDocumentMoniker": "ToDoList.Dal\\Configuraton\\ToDoItemConfigurations.cs",
+              "ToolTip": "C:\\Projects\\FiveModul_Exam.Nomozov\\ToDoList\\ToDoList.Dal\\Configuraton\\ToDoItemConfigurations.cs",
+              "RelativeToolTip": "ToDoList.Dal\\Configuraton\\ToDoItemConfigurations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T04:27:04.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ToDoItem.cs",
+              "DocumentMoniker": "C:\\Projects\\FiveModul_Exam.Nomozov\\ToDoList\\ToDoList.Dal\\Entities\\ToDoItem.cs",
+              "RelativeDocumentMoniker": "ToDoList.Dal\\Entities\\ToDoItem.cs",
+              "ToolTip": "C:\\Projects\\FiveModul_Exam.Nomozov\\ToDoList\\ToDoList.Dal\\Entities\\ToDoItem.cs",
+              "RelativeToolTip": "ToDoList.Dal\\Entities\\ToDoItem.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T04:24:14.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ToDoList.Bll",
+              "DocumentMoniker": "C:\\Projects\\FiveModul_Exam.Nomozov\\ToDoList\\ToDoList.Bll\\ToDoList.Bll.csproj",
+              "RelativeDocumentMoniker": "ToDoList.Bll\\ToDoList.Bll.csproj",
+              "ToolTip": "C:\\Projects\\FiveModul_Exam.Nomozov\\ToDoList\\ToDoList.Bll\\ToDoList.Bll.csproj",
+              "RelativeToolTip": "ToDoList.Bll\\ToDoList.Bll.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-17T04:15:35.964Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
